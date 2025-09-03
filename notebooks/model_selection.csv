@@ -1,0 +1,30 @@
+"Oxacillin","Random Forest",0.8109
+"Oxacillin","Logistic Regression",0.8991
+"Oxacillin","Support Vector Machine",0.8469
+"Oxacillin","Naive Bayes",0.5687
+"Oxacillin","LightGBM",0.8698
+"Oxacillin","Multilayer Perceptron",0.8707
+"Clindamycin","Random Forest",0.5829
+"Clindamycin","Logistic Regression",0.6956
+"Clindamycin","Support Vector Machine",0.7116
+"Clindamycin","Naive Bayes",0.5444
+"Clindamycin","LightGBM",0.6512
+"Clindamycin","Multilayer Perceptron",0.6468
+"Ceftriaxone","Random Forest",0.8255
+"Ceftriaxone","Logistic Regression",0.9092
+"Ceftriaxone","Support Vector Machine",0.8627
+"Ceftriaxone","Naive Bayes",0.5588
+"Ceftriaxone","LightGBM",0.8865
+"Ceftriaxone","Multilayer Perceptron",0.9057
+"Ciprofloxacin","Random Forest",0.7255
+"Ciprofloxacin","Logistic Regression",0.8240
+"Ciprofloxacin","Support Vector Machine",0.7818
+"Ciprofloxacin","Naive Bayes",0.4825
+"Ciprofloxacin","LightGBM",0.7868
+"Ciprofloxacin","Multilayer Perceptron",0.7832
+"Fusidic acid","Random Forest",0.6283
+"Fusidic acid","Logistic Regression",0.8032
+"Fusidic acid","Support Vector Machine",0.7591
+"Fusidic acid","Naive Bayes",0.5615
+"Fusidic acid","LightGBM",0.7681
+"Fusidic acid","Multilayer Perceptron",0.7863

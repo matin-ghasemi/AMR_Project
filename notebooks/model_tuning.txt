@@ -1,0 +1,30 @@
+Antibiotic: Oxacillin, Model: Random Forest, AUROC: 0.8222582478338987, Params: {'max_features': 100, 'n_estimators': 400, 'random_state': 0}
+Antibiotic: Oxacillin, Model: Logistic Regression, AUROC: 0.8944299059357015, Params: {'C': 0.1, 'max_iter': 1000, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'}
+Antibiotic: Oxacillin, Model: Support Vector Machine, AUROC: 0.8908020139609955, Params: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf', 'probability': True, 'random_state': 0}
+Antibiotic: Oxacillin, Model: Naive Bayes, AUROC: 0.5958947718844851, Params: {}
+Antibiotic: Oxacillin, Model: LightGBM, AUROC: 0.8752786008773459, Params: {'boosting_type': 'gbdt', 'learning_rate': 0.1, 'n_estimators': 400, 'objective': 'binary', 'random_state': 0, 'verbose': -1}
+Antibiotic: Oxacillin, Model: Multilayer Perceptron, AUROC: 0.8495550934609032, Params: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (512, 128, 64), 'max_iter': 1000, 'random_state': 0}
+Antibiotic: Clindamycin, Model: Random Forest, AUROC: 0.6073173047074564, Params: {'max_features': 100, 'n_estimators': 400, 'random_state': 0}
+Antibiotic: Clindamycin, Model: Logistic Regression, AUROC: 0.7387226028092458, Params: {'C': 0.1, 'max_iter': 1000, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'}
+Antibiotic: Clindamycin, Model: Support Vector Machine, AUROC: 0.7149163238611307, Params: {'C': 10, 'gamma': 'auto', 'kernel': 'rbf', 'probability': True, 'random_state': 0}
+Antibiotic: Clindamycin, Model: Naive Bayes, AUROC: 0.5458514185966981, Params: {}
+Antibiotic: Clindamycin, Model: LightGBM, AUROC: 0.6798466017276452, Params: {'boosting_type': 'gbdt', 'learning_rate': 0.1, 'n_estimators': 400, 'objective': 'binary', 'random_state': 0, 'verbose': -1}
+Antibiotic: Clindamycin, Model: Multilayer Perceptron, AUROC: 0.6697155575254576, Params: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (512, 256, 128), 'max_iter': 1000, 'random_state': 0}
+Antibiotic: Ceftriaxone, Model: Random Forest, AUROC: 0.8210856218344784, Params: {'max_features': 100, 'n_estimators': 400, 'random_state': 0}
+Antibiotic: Ceftriaxone, Model: Logistic Regression, AUROC: 0.8832374859222318, Params: {'C': 0.1, 'max_iter': 1000, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'}
+Antibiotic: Ceftriaxone, Model: Support Vector Machine, AUROC: 0.888645352144108, Params: {'C': 100, 'gamma': 'auto', 'kernel': 'rbf', 'probability': True, 'random_state': 0}
+Antibiotic: Ceftriaxone, Model: Naive Bayes, AUROC: 0.588685434387663, Params: {}
+Antibiotic: Ceftriaxone, Model: LightGBM, AUROC: 0.8626799698862531, Params: {'boosting_type': 'gbdt', 'learning_rate': 0.1, 'n_estimators': 400, 'objective': 'binary', 'random_state': 0, 'verbose': -1}
+Antibiotic: Ceftriaxone, Model: Multilayer Perceptron, AUROC: 0.838825383062383, Params: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (256, 64), 'max_iter': 1000, 'random_state': 0}
+Antibiotic: Ciprofloxacin, Model: Random Forest, AUROC: 0.7441563330364314, Params: {'max_features': 100, 'n_estimators': 400, 'random_state': 0}
+Antibiotic: Ciprofloxacin, Model: Logistic Regression, AUROC: 0.7931063101100995, Params: {'C': 0.1, 'max_iter': 1000, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'}
+Antibiotic: Ciprofloxacin, Model: Support Vector Machine, AUROC: 0.7798762269208013, Params: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf', 'probability': True, 'random_state': 0}
+Antibiotic: Ciprofloxacin, Model: Naive Bayes, AUROC: 0.5604633988896881, Params: {}
+Antibiotic: Ciprofloxacin, Model: LightGBM, AUROC: 0.763370835717941, Params: {'boosting_type': 'gbdt', 'learning_rate': 0.1, 'n_estimators': 400, 'objective': 'binary', 'random_state': 0, 'verbose': -1}
+Antibiotic: Ciprofloxacin, Model: Multilayer Perceptron, AUROC: 0.7160293545305395, Params: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (256, 128), 'max_iter': 1000, 'random_state': 0}
+Antibiotic: Fusidic acid, Model: Random Forest, AUROC: 0.623747758554776, Params: {'max_features': 100, 'n_estimators': 400, 'random_state': 0}
+Antibiotic: Fusidic acid, Model: Logistic Regression, AUROC: 0.7192427305451041, Params: {'C': 0.1, 'max_iter': 1000, 'penalty': 'l2', 'random_state': 0, 'solver': 'lbfgs'}
+Antibiotic: Fusidic acid, Model: Support Vector Machine, AUROC: 0.7038720452611062, Params: {'C': 100, 'gamma': 'scale', 'kernel': 'rbf', 'probability': True, 'random_state': 0}
+Antibiotic: Fusidic acid, Model: Naive Bayes, AUROC: 0.5217376279192585, Params: {}
+Antibiotic: Fusidic acid, Model: LightGBM, AUROC: 0.6957605721940088, Params: {'boosting_type': 'gbdt', 'learning_rate': 0.01, 'n_estimators': 400, 'objective': 'binary', 'random_state': 0, 'verbose': -1}
+Antibiotic: Fusidic acid, Model: Multilayer Perceptron, AUROC: 0.5999645035207471, Params: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (512, 128, 64), 'max_iter': 1000, 'random_state': 0}
