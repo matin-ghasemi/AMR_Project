@@ -21,7 +21,7 @@ The global rise of antimicrobial resistance (AMR) is a major public health conce
 
 ### 📁 Project Structure
 ├── data/ <br>
-│   └── README.md 
+│   └── README.md <br>
 ├── notebooks/<br>
 │   ├── 01_EDA.ipynb  <br>
 │   ├── 02_Classic_ML.ipynb<br>
